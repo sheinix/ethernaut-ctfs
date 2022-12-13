@@ -1,6 +1,6 @@
 # Fallback
 
-Second Challenge description is as follows:
+First Challenge description is as follows:
 
 Look carefully at the contract's code below.
 You will beat this level if:
